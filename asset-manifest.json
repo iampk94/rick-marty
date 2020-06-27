@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iampk94/rick-marty/static/css/main.d2dba197.chunk.css",
-    "main.js": "/iampk94/rick-marty/static/js/main.f88351ae.chunk.js",
-    "main.js.map": "/iampk94/rick-marty/static/js/main.f88351ae.chunk.js.map",
-    "runtime~main.js": "/iampk94/rick-marty/static/js/runtime~main.ba2aa2f0.js",
-    "runtime~main.js.map": "/iampk94/rick-marty/static/js/runtime~main.ba2aa2f0.js.map",
-    "static/css/2.0e1a4c73.chunk.css": "/iampk94/rick-marty/static/css/2.0e1a4c73.chunk.css",
-    "static/js/2.f6dee28c.chunk.js": "/iampk94/rick-marty/static/js/2.f6dee28c.chunk.js",
-    "static/js/2.f6dee28c.chunk.js.map": "/iampk94/rick-marty/static/js/2.f6dee28c.chunk.js.map",
-    "index.html": "/iampk94/rick-marty/index.html",
-    "precache-manifest.ccf85a532510b479ab43b51176a62305.js": "/iampk94/rick-marty/precache-manifest.ccf85a532510b479ab43b51176a62305.js",
-    "service-worker.js": "/iampk94/rick-marty/service-worker.js",
-    "static/css/2.0e1a4c73.chunk.css.map": "/iampk94/rick-marty/static/css/2.0e1a4c73.chunk.css.map",
-    "static/css/main.d2dba197.chunk.css.map": "/iampk94/rick-marty/static/css/main.d2dba197.chunk.css.map"
+    "main.css": "/rick-marty/static/css/main.d2dba197.chunk.css",
+    "main.js": "/rick-marty/static/js/main.f88351ae.chunk.js",
+    "main.js.map": "/rick-marty/static/js/main.f88351ae.chunk.js.map",
+    "runtime~main.js": "/rick-marty/static/js/runtime~main.5fad4b32.js",
+    "runtime~main.js.map": "/rick-marty/static/js/runtime~main.5fad4b32.js.map",
+    "static/css/2.0e1a4c73.chunk.css": "/rick-marty/static/css/2.0e1a4c73.chunk.css",
+    "static/js/2.f6dee28c.chunk.js": "/rick-marty/static/js/2.f6dee28c.chunk.js",
+    "static/js/2.f6dee28c.chunk.js.map": "/rick-marty/static/js/2.f6dee28c.chunk.js.map",
+    "index.html": "/rick-marty/index.html",
+    "precache-manifest.6c29ca29ffaef3978d8bd49f83f553e2.js": "/rick-marty/precache-manifest.6c29ca29ffaef3978d8bd49f83f553e2.js",
+    "service-worker.js": "/rick-marty/service-worker.js",
+    "static/css/2.0e1a4c73.chunk.css.map": "/rick-marty/static/css/2.0e1a4c73.chunk.css.map",
+    "static/css/main.d2dba197.chunk.css.map": "/rick-marty/static/css/main.d2dba197.chunk.css.map"
   }
 }
